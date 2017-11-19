@@ -18,7 +18,7 @@ class App extends Component {
 			selectedVideo: null
 		};
 
-		this.videoSearch('Rachel McAdams');
+		this.videoSearch('The Killers');
 	}
 
 	videoSearch(term) {
